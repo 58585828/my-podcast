@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>曼希辰的个人播客</title>
+    <link>https://yourwebsite.com</link>
+    <description>这是一个由曼希辰主持的英文播客节目，讲述小说情节。</description>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2025 曼希辰</copyright>
+    
+    <image>
+      <url>https://example.com/cover.jpg</url>
+      <title>曼希辰的个人播客</title>
+      <link>https://yourwebsite.com</link>
+    <description>这是一个由曼希辰主持的英文播客节目，讲述小说情节。</description>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2025 曼希辰</copyright>
+    
+    <image>
+      <url>https://example.com/cover.jpg</url>
+      <title>曼希辰的个人播客</title>
+      <link>https://yourwebsite.com</link>
+    </image>
+
+    <item>
+      <title>第1集：the summary of harry potter and philosopher's stone chapter one</title>
+      <description>本集总结哈利波特第一本第一章。</description>
+      <enclosure url="https://example.com/audio/ep1.mp3" type="audio/mpeg" />
+      <guid>ep1</guid>
+      <pubDate>Thu, 01 Aug 2025 10:00:00 +0800</pubDate>
+    </item>
+        </channel>
+</rss>
